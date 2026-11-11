@@ -7,7 +7,7 @@ jobs:
   render:
     name: Render video
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 500
 
     steps:
       - name: Checkout
@@ -30,10 +30,10 @@ jobs:
           # GitHub Actions has no GPU → use software renderer (swangle)
           npx remotion render src/index.jsx Story out/full_silent.mp4 \
             --gl=swangle \
-            --concurrency=2 \
+            --concurrency=1 \
             --image-format=jpeg \
-            --jpeg-quality=92 \
-            --crf=17
+            --jpeg-quality=85 \
+            --crf=23
 
       - name: Add voiceover
         run: |
@@ -50,3 +50,4 @@ jobs:
           name: lake-peigneur-final
           path: final.mp4
           retention-days: 7
+          
