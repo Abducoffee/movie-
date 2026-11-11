@@ -1,0 +1,97 @@
+{
+ "fps": 30,
+ "duration": 58.43,
+ "shots": [
+  {
+   "key": "hook",
+   "start": 0.15,
+   "end": 3.856,
+   "words": 11,
+   "text": "They drilled a fourteen inch hole, and a whole lake vanished."
+  },
+  {
+   "key": "lake",
+   "start": 4.273,
+   "end": 8.259,
+   "words": 12,
+   "text": "You see, Lake Peigneur in Louisiana was only about ten feet deep."
+  },
+  {
+   "key": "rig",
+   "start": 8.546,
+   "end": 13.086,
+   "words": 15,
+   "text": "Under it sat a salt mine. On top floated an oil rig, drilling for Texaco."
+  },
+  {
+   "key": "stuck",
+   "start": 13.504,
+   "end": 16.831,
+   "words": 10,
+   "text": "On November twentieth, nineteen eighty, the drill bit got stuck."
+  },
+  {
+   "key": "tilt",
+   "start": 17.248,
+   "end": 21.149,
+   "words": 13,
+   "text": "A stuck bit is a small problem. Then the rig began to tilt."
+  },
+  {
+   "key": "whirl",
+   "start": 21.451,
+   "end": 24.488,
+   "words": 10,
+   "text": "A whirlpool opened, and the lake poured into the mine."
+  },
+  {
+   "key": "gone",
+   "start": 24.633,
+   "end": 28.91,
+   "words": 13,
+   "text": "In three hours, three and a half billion gallons of water were gone."
+  },
+  {
+   "key": "sink",
+   "start": 29.222,
+   "end": 33.393,
+   "words": 12,
+   "text": "The rig tipped over and sank. Barges spun around and went under."
+  },
+  {
+   "key": "grow",
+   "start": 33.81,
+   "end": 35.218,
+   "words": 5,
+   "text": "But the hole kept growing."
+  },
+  {
+   "key": "salt",
+   "start": 35.635,
+   "end": 41.239,
+   "words": 17,
+   "text": "You see, fresh water dissolves salt, like sugar in hot tea. The hole grew wider and wider."
+  },
+  {
+   "key": "miners",
+   "start": 41.656,
+   "end": 47.004,
+   "words": 18,
+   "text": "A worker sounded the alarm. Fifty miners ran for the exits, and every one made it out alive."
+  },
+  {
+   "key": "canal",
+   "start": 47.421,
+   "end": 51.773,
+   "words": 10,
+   "text": "So the canal ran backward, making Louisiana's tallest waterfall ever."
+  },
+  {
+   "key": "close",
+   "start": 52.157,
+   "end": 57.679,
+   "words": 17,
+   "text": "Gulf water refilled the lake. Today it's salty, and the salt dome beneath it stores natural gas."
+  }
+ ]
+}
